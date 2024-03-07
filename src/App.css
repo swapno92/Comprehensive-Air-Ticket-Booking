@@ -1,0 +1,31 @@
+.nil{
+  border: 1px solid #006cea;
+}
+.line{
+  border:  1px solid #b2ceee;
+}
+
+.bgImage{
+  background-image: url('../public/bgImage.png');
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body {
+    font-family: 'Poppins'
+}
+
+.bg_overlay-1{
+background-image: url('./Testimonials_IMG-1.jfif'),linear-gradient(rgba(0, 108, 228, 0.8), rgba(0, 108, 228, 0.8));
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-blend-mode: overlay;
+}
+.bg_overlay-2{
+background-image: url('./Testimonials_IMG-3.jfif'),linear-gradient(rgba(0, 108, 228, 0.8), rgba(0, 108, 228, 0.8));
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-blend-mode: overlay;
+}
