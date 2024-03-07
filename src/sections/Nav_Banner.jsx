@@ -18,10 +18,7 @@ const Nav_Banner = () => {
          '>
                 {/* left */}
                 <div className='text-3xl font-normal flex items-center gap-2 '>
-                    {/* <div className=' '> */}
                     <img className='' src="./LOGO.png" alt="" />
-                    {/* </div> */}
-                    {/* <h2 ><span className='font-bold text-[#ffb700]'>Air</span><span className='text-[#006cea]'>Book</span></h2> */}
                 </div>
                 {/* middle */}
                 <div className='font-medium text-xl flex gap-[30px]'>
@@ -43,10 +40,7 @@ const Nav_Banner = () => {
                     <div className=" max-w-screen-xl flex flex-wrap items-center justify-between mx-auto md:py-1">
 
                         <div className='text-3xl font-normal flex items-center gap-2 md:pl-0 pl-3 md:pt-0 pt-2'>
-                            {/* <div className=' '> */}
                             <img className='' src="./LOGO.png" alt="" />
-                            {/* </div> */}
-                            {/* <h2 ><span className='font-bold text-[#ffb700]'>Air</span><span className='text-[#006cea]'>Book</span></h2> */}
                         </div>
 
                         <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse items-center ">

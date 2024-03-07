@@ -3,7 +3,7 @@ import { FaFacebookF, FaLinkedinIn, FaYoutube } from "react-icons/fa";
 
 const Footer = () => {
     return (
-        <div className=" md:h-[446px] lg:pb-0  line  bg-[#006cea] text-white">
+        <div className=" ">
             <div className="lg:w-[1120px] lg:px-0 md:px-8 px-5  md:mt-[50px] mt-5 mx-auto  flex flex-wrap justify-between border-b border-b-gray-300  md:pb-[53px]    ">
                 <div className="">
                     <h2 className="font-medium text-lg mb-2">Address</h2>
@@ -39,10 +39,7 @@ const Footer = () => {
             </div>
             <div className="md:mt-[14px] mt-3  lg:w-[1120px] lg:p-0 md:p-8 mx-auto flex flex-wrap  md:justify-between justify-center items-center md:gap-x-0 gap-x-3 md:gap-y-0 gap-y-3">
                 <div className='text-xl order-1 font-normal flex items-center gap-2 '>
-                    {/* <div className=' '> */}
                     <img className='' src="./LOGO_white.png" alt="" />
-                    {/* </div> */}
-                    {/* <h2 ><span className='font-bold text-[#ffb700]'>Air</span><span className='text-[#006cea]'>Book</span></h2> */}
                 </div>
                 <h2 className="md:order-2 order-3 font-semibold text-xs">© Copyright  AIRBOOK</h2>
                 <div className=" md:ord3 order-2 flex md:gap-8 gap-3 ">
